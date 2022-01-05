@@ -19,6 +19,7 @@
 - [async와 await를 사용하여 비동기 프로그래밍을 쉽게 만들기](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Asynchronous/Async_await)
 - [공통시스템개발팀 코드 리뷰 문화 개선 이야기](https://techblog.woowahan.com/7152/)
 - [spring-guides/tut-spring-boot-kotlin](https://github.com/spring-guides/tut-spring-boot-kotlin/)
+- [Laravel ADR 패턴](https://github.com/HydrefLab/laravel-adr)
 
 
 <h2>Media(유튜브 등)</h2>
