@@ -20,7 +20,11 @@
 - [공통시스템개발팀 코드 리뷰 문화 개선 이야기](https://techblog.woowahan.com/7152/)
 - [spring-guides/tut-spring-boot-kotlin](https://github.com/spring-guides/tut-spring-boot-kotlin/)
 - [Laravel ADR 패턴](https://github.com/HydrefLab/laravel-adr)
-
+- Circuit Breaker 패턴
+  - [[프로그래밍 패턴] Circuit Breaker 패턴](https://velog.io/@vies00/Circuit-Breaker-Pattern)
+  - [Circuit breaker 패턴 - 1) Circuit breaker란](https://qwer9412.tistory.com/2)
+  - [Circuit Breaker 패턴 - 2) 넷플릭스의 Hystrix 라이브러리 사용하기](https://qwer9412.tistory.com/3)
+  - [Circuit breaker 패턴 - 3) spring을 이용한 Circuit breaker](https://qwer9412.tistory.com/4)
 
 <h2>Media(유튜브 등)</h2>
 
