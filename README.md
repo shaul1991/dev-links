@@ -39,6 +39,9 @@
 
 <h2>Cloud(MSA ...)</h2>
 
+- [microsoft / Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+- [AWS 아키텍처 센터](https://aws.amazon.com/ko/architecture/)
+
 - Circuit Breaker 패턴
   - [[프로그래밍 패턴] Circuit Breaker 패턴](https://velog.io/@vies00/Circuit-Breaker-Pattern)
   - [Circuit breaker 패턴 - 1) Circuit breaker란](https://qwer9412.tistory.com/2)
