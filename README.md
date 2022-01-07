@@ -25,6 +25,7 @@
   - [Circuit breaker 패턴 - 1) Circuit breaker란](https://qwer9412.tistory.com/2)
   - [Circuit Breaker 패턴 - 2) 넷플릭스의 Hystrix 라이브러리 사용하기](https://qwer9412.tistory.com/3)
   - [Circuit breaker 패턴 - 3) spring을 이용한 Circuit breaker](https://qwer9412.tistory.com/4)
+- [Twelve-Factor 방법론](https://12factor.net/ko/)
 
 <h2>Media(유튜브 등)</h2>
 
