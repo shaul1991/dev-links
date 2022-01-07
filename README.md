@@ -45,6 +45,8 @@
   - [Circuit Breaker 패턴 - 2) 넷플릭스의 Hystrix 라이브러리 사용하기](https://qwer9412.tistory.com/3)
   - [Circuit breaker 패턴 - 3) spring을 이용한 Circuit breaker](https://qwer9412.tistory.com/4)
 
+- [토크ON 42차. Netflix OSS, Spring Cloud 를 활용한 MSA 기초 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdtYdxxZ6hZeb0va2Gm17A5)
+
 <h2>Edu</h2>
 
 - [SK플래닛](https://www.youtube.com/c/SKplanetTacademy) : 교육
