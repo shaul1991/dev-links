@@ -48,13 +48,13 @@
   - [Circuit Breaker 패턴 - 2) 넷플릭스의 Hystrix 라이브러리 사용하기](https://qwer9412.tistory.com/3)
   - [Circuit breaker 패턴 - 3) spring을 이용한 Circuit breaker](https://qwer9412.tistory.com/4)
 
-- [토크ON 42차. Netflix OSS, Spring Cloud 를 활용한 MSA 기초 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdtYdxxZ6hZeb0va2Gm17A5)
-
 <h2>Edu</h2>
 
 - [SK플래닛](https://www.youtube.com/c/SKplanetTacademy) : 교육
 - [데브원영 DVWY](https://www.youtube.com/c/%EB%8D%B0%EB%B8%8C%EC%9B%90%EC%98%81DevWonYoung) : Devops, Kafka, 일상
 - [스프링 핵심 원리 - 기본편(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
+- [토크ON 42차. Netflix OSS, Spring Cloud 를 활용한 MSA 기초 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdtYdxxZ6hZeb0va2Gm17A5)
+- [토크ON 77차. 아파치 카프카 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheZvqoJj_PkYGA2hhBhgha8)
 - [Kafka 완전 정복 : 클러스터 구축부터 MSA 환경 활용까지 / 패스트 캠퍼스](https://fastcampus.co.kr/search?keyword=kafka)
 
 <h2>Etc References</h2>
