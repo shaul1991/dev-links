@@ -39,8 +39,9 @@
 
 <h2>Cloud(MSA ...)</h2>
 
-- [microsoft / Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [AWS 아키텍처 센터](https://aws.amazon.com/ko/architecture/)
+- [microsoft / Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+- [microsoft / 이벤트 기반 아키텍처 스타일](https://docs.microsoft.com/ko-kr/azure/architecture/guide/architecture-styles/event-driven)
 
 - Circuit Breaker 패턴
   - [[프로그래밍 패턴] Circuit Breaker 패턴](https://velog.io/@vies00/Circuit-Breaker-Pattern)
