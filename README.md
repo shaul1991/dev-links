@@ -60,4 +60,5 @@
 
 <h2>Etc References</h2>
 
-- [Runebook.dev](https://runebook.dev/) : Translation developer documentation  
+- [Runebook.dev](https://runebook.dev/) : Translation developer documentation
+- [네이버 웹마스터 가이드](https://searchadvisor.naver.com/guide)
