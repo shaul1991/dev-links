@@ -62,3 +62,4 @@
 
 - [Runebook.dev](https://runebook.dev/) : Translation developer documentation
 - [네이버 웹마스터 가이드](https://searchadvisor.naver.com/guide)
+- [다음 웹마스터](https://webmaster.daum.net)
