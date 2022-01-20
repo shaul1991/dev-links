@@ -19,6 +19,7 @@
 - [PHP-FIG](https://www.php-fig.org/) : PHP Standards Recommendations
 - [PHP-UNIT](https://phpunit.de/)
 - [What are Traits in PHP and how to use them](https://medium.com/@iamjoestack/what-are-traits-in-php-and-how-to-use-them-9798a1a8667a)
+- [OOP Principles for Writing Better Code in Laravel Explained](https://betterprogramming.pub/laravel-oop-principles-for-writing-better-code-explained-part-1-531276365cba)
 
 <h2>Laravel</h2>
 
