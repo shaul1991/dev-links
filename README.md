@@ -2,7 +2,7 @@
 
 - [Twelve-Factor 방법론](https://12factor.net/ko/)
 - REST API
-  - [AWS - REST API](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-rest-api.html)
+  - [MS - REST API](https://docs.microsoft.com/ko-kr/azure/architecture/best-practices/api-design)
   - [RedHat - REST API](https://www.redhat.com/ko/topics/api/what-is-a-rest-api)
   - [IBM - REST API](https://www.ibm.com/kr-ko/cloud/learn/rest-apis)
 
