@@ -15,6 +15,7 @@
 <h2>culture</h2>
 
 - [공통시스템개발팀 코드 리뷰 문화 개선 이야기](https://techblog.woowahan.com/7152/)
+- [5년차 백엔드 개발자가 말하는 코드 리뷰의 중요성](https://youtu.be/xfg4shhjCyU)
 
 
 <h2>PHP</h2>
