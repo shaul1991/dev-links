@@ -15,7 +15,8 @@
 <h2>culture</h2>
 
 - [공통시스템개발팀 코드 리뷰 문화 개선 이야기](https://techblog.woowahan.com/7152/)
-- [5년차 백엔드 개발자가 말하는 코드 리뷰의 중요성](https://youtu.be/xfg4shhjCyU)
+- [(영상) 5년차 백엔드 개발자가 말하는 코드 리뷰의 중요성](https://youtu.be/xfg4shhjCyU)
+- [(영상) 깨끗한 코드를 위한 5가지 팁](https://youtu.be/Jz8Sx1XYb04)
 
 
 <h2>PHP</h2>
@@ -59,12 +60,12 @@
 
 <h2>Edu</h2>
 
-- [SK플래닛](https://www.youtube.com/c/SKplanetTacademy) : 교육
-- [데브원영 DVWY](https://www.youtube.com/c/%EB%8D%B0%EB%B8%8C%EC%9B%90%EC%98%81DevWonYoung) : Devops, Kafka, 일상
-- [스프링 핵심 원리 - 기본편(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
-- [토크ON 42차. Netflix OSS, Spring Cloud 를 활용한 MSA 기초 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdtYdxxZ6hZeb0va2Gm17A5)
-- [토크ON 77차. 아파치 카프카 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheZvqoJj_PkYGA2hhBhgha8)
-- [Kafka 완전 정복 : 클러스터 구축부터 MSA 환경 활용까지 / 패스트 캠퍼스](https://fastcampus.co.kr/search?keyword=kafka)
+- [(영상) SK플래닛](https://www.youtube.com/c/SKplanetTacademy) : 교육
+- [(영상) 데브원영 DVWY](https://www.youtube.com/c/%EB%8D%B0%EB%B8%8C%EC%9B%90%EC%98%81DevWonYoung) : Devops, Kafka, 일상
+- [(영상) 스프링 핵심 원리 - 기본편(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
+- [(영상) 토크ON 42차. Netflix OSS, Spring Cloud 를 활용한 MSA 기초 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdtYdxxZ6hZeb0va2Gm17A5)
+- [(영상) 토크ON 77차. 아파치 카프카 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheZvqoJj_PkYGA2hhBhgha8)
+- [(영상) Kafka 완전 정복 : 클러스터 구축부터 MSA 환경 활용까지 / 패스트 캠퍼스](https://fastcampus.co.kr/search?keyword=kafka)
 
 <h2>Etc References</h2>
 
