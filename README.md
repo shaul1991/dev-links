@@ -17,6 +17,7 @@
 - [공통시스템개발팀 코드 리뷰 문화 개선 이야기](https://techblog.woowahan.com/7152/)
 - [(영상) 5년차 백엔드 개발자가 말하는 코드 리뷰의 중요성](https://youtu.be/xfg4shhjCyU)
 - [(영상) 깨끗한 코드를 위한 5가지 팁](https://youtu.be/Jz8Sx1XYb04)
+- [(영상) 코딩 잘하는 팁 세가지 (이걸 알면 코드가 깔끔해 진다) : DRY, KISS, YAGNI](https://youtu.be/jafa3cqoAVM)
 
 
 <h2>PHP</h2>
